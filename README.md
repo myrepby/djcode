@@ -1,4 +1,0 @@
-djcode
-======
-
-djangobook repository
